@@ -1,6 +1,8 @@
 ---
 permalink: /en/cobrowsing
 layout: feature
+meta-title: Cobrowsing for a better customer experience
+meta-description: Cobrowsing for a better customer experience
 ---
 
 # Cobrowsing for a better customer experience
